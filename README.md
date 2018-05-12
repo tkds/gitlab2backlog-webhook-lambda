@@ -2,5 +2,5 @@
 
 ```
 $ pip install pybacklog -t .
-＄ zip -r upload.zip *
+$ zip -r upload.zip *
 ```
